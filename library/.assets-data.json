@@ -247,12 +247,14 @@
         "65f38699-c145-4caa-adf1-6c5f89eb8022",
         "42cb2127-d8f8-4bf1-803a-b5ae866310e2@f9941",
         "77df32a7-c34e-4db0-9659-350844005766",
+        "1df19ec3-cada-4b6d-94e5-0ac6bb41c5fc@f9941",
         "824fc2ae-cc7c-41ad-a7a0-54a2ca8cd1f4@f9941"
       ],
       "dependScripts": [
+        "28c51913-ed76-4fed-bf21-59b1d0db5532",
         "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
-        "b05a1860-9c74-444b-87de-e32ba4c01cea",
-        "9446f268-25de-4758-8e25-423135d6deb1"
+        "9446f268-25de-4758-8e25-423135d6deb1",
+        "b05a1860-9c74-444b-87de-e32ba4c01cea"
       ]
     },
     "versionCode": 0
@@ -469,6 +471,71 @@
     "value": {
       "depends": [
         "42153e1a-f992-44b2-acaf-8dcb464147d9@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "7ea34dfb-51a7-480e-bd23-9653b23b0dde": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 0
+  },
+  "323146fb-1224-4f6e-9d9f-650533c3e744": {
+    "url": "db://assets/scripts/Player",
+    "value": {},
+    "versionCode": 0
+  },
+  "1df19ec3-cada-4b6d-94e5-0ac6bb41c5fc": {
+    "url": "db://assets/Перс.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1df19ec3-cada-4b6d-94e5-0ac6bb41c5fc@6c48a": {
+    "url": "db://assets/Перс.png@6c48a",
+    "value": {
+      "depends": [
+        "1df19ec3-cada-4b6d-94e5-0ac6bb41c5fc"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1df19ec3-cada-4b6d-94e5-0ac6bb41c5fc@f9941": {
+    "url": "db://assets/Перс.png@f9941",
+    "value": {
+      "depends": [
+        "1df19ec3-cada-4b6d-94e5-0ac6bb41c5fc@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "28c51913-ed76-4fed-bf21-59b1d0db5532": {
+    "url": "db://assets/scripts/Player/player.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "0cc50145-4304-4694-9450-7b5adc33f501": {
+    "url": "db://assets/Пьянка.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "0cc50145-4304-4694-9450-7b5adc33f501@6c48a": {
+    "url": "db://assets/Пьянка.png@6c48a",
+    "value": {
+      "depends": [
+        "0cc50145-4304-4694-9450-7b5adc33f501"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0cc50145-4304-4694-9450-7b5adc33f501@f9941": {
+    "url": "db://assets/Пьянка.png@f9941",
+    "value": {
+      "depends": [
+        "0cc50145-4304-4694-9450-7b5adc33f501@6c48a"
       ]
     },
     "versionCode": 0

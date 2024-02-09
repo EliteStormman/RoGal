@@ -136,6 +136,146 @@
     "C:\\Users\\USERRR\\Documents\\GitHub\\RoGal\\assets\\lavka_test.png": {
       "time": 1707324792666.7725,
       "uuid": "42153e1a-f992-44b2-acaf-8dcb464147d9"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\rooms": {
+      "time": 1707327746431.739,
+      "uuid": "4e833f3c-267e-4767-813c-68558c928412"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\scripts": {
+      "time": 1707328098976.2783,
+      "uuid": "7ea34dfb-51a7-480e-bd23-9653b23b0dde"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\scripts\\Player": {
+      "time": 1707460250856.9817,
+      "uuid": "323146fb-1224-4f6e-9d9f-650533c3e744"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\BallDebug.ts": {
+      "time": 1707327746422.1838,
+      "uuid": "b05a1860-9c74-444b-87de-e32ba4c01cea"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\GenerateRoomsDebug.ts": {
+      "time": 1707327746422.1838,
+      "uuid": "9446f268-25de-4758-8e25-423135d6deb1"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\rooms.meta": {
+      "time": 1707327746428.7393
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\scripts.meta": {
+      "time": 1707328098979.2632
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\scripts\\Player.meta": {
+      "time": 1707328098979.2632
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\BallDebug.ts.meta": {
+      "time": 1707327746422.1838
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\GenerateRoomsDebug.ts.meta": {
+      "time": 1707327746423.1804
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\lavka_test.png": {
+      "time": 1707327746426.177,
+      "uuid": "42153e1a-f992-44b2-acaf-8dcb464147d9"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Papka.png": {
+      "time": 1707327746423.1804,
+      "uuid": "060511c9-f6c5-410c-9bff-b7efd66ab720"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\pngwing.com.png": {
+      "time": 1706688331325.5447,
+      "uuid": "824fc2ae-cc7c-41ad-a7a0-54a2ca8cd1f4"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Pol2.png": {
+      "time": 1707327746424.1768,
+      "uuid": "261d4342-2f7e-4d20-a83e-a75941614295"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\pol3.png": {
+      "time": 1706688331323.5442,
+      "uuid": "5623aa38-a4c6-4465-b808-6d084093731e"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\stena1.png": {
+      "time": 1706688331324.5447,
+      "uuid": "42cb2127-d8f8-4bf1-803a-b5ae866310e2"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\stena3.png": {
+      "time": 1707327746432.735,
+      "uuid": "a2390a58-5404-40f2-b5ae-bf79429ee2d9"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\TestRoom.scene": {
+      "time": 1707426091843.0195,
+      "uuid": "65f38699-c145-4caa-adf1-6c5f89eb8022"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Test_pers.png": {
+      "time": 1707327746425.1743,
+      "uuid": "0858c7f4-a36d-4c56-a769-446c7361c7f6"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\rooms\\room_test_1.prefab": {
+      "time": 1707327746429.7388,
+      "uuid": "77df32a7-c34e-4db0-9659-350844005766"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\rooms\\room_test_papka.prefab": {
+      "time": 1707327746430.7368,
+      "uuid": "91bf537c-eb2c-4726-9a6a-219e597de672"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\rooms\\room_test_store.prefab": {
+      "time": 1707327746431.739,
+      "uuid": "8de0c54a-d6c5-4c37-9082-068afaf130ce"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Pol2.png.meta": {
+      "time": 1707327746424.1768
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\lavka_test.png.meta": {
+      "time": 1707327746427.1685
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Papka.png.meta": {
+      "time": 1707327746423.1804
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\pol3.png.meta": {
+      "time": 1706688331328.5347
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\TestRoom.scene.meta": {
+      "time": 1706688331323.5442
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\pngwing.com.png.meta": {
+      "time": 1706688331323.5442
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\rooms\\room_test_1.prefab.meta": {
+      "time": 1707327746430.7368
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\rooms\\room_test_papka.prefab.meta": {
+      "time": 1707327746431.739
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\stena3.png.meta": {
+      "time": 1707327746432.735
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\rooms\\room_test_store.prefab.meta": {
+      "time": 1707327746431.739
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\stena1.png.meta": {
+      "time": 1706688331324.5447
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Test_pers.png.meta": {
+      "time": 1707327746426.177
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Перс.png.meta": {
+      "time": 1707424675406.2407
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Перс.png": {
+      "time": 1706816936366.2517,
+      "uuid": "1df19ec3-cada-4b6d-94e5-0ac6bb41c5fc"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\scripts\\Player\\player.ts.meta": {
+      "time": 1707425254514.9631
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\scripts\\Player\\player.ts": {
+      "time": 1707460250853.8877,
+      "uuid": "28c51913-ed76-4fed-bf21-59b1d0db5532"
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Пьянка.png.meta": {
+      "time": 1707460132073.8552
+    },
+    "C:\\Users\\caxa3\\Documents\\GitHub\\RoGal\\assets\\Пьянка.png": {
+      "time": 1707460106412.9612,
+      "uuid": "0cc50145-4304-4694-9450-7b5adc33f501"
     }
   },
   "missing": {
